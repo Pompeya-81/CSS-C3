@@ -1,0 +1,23 @@
+/*
+selector {
+   propiedad: valor;
+}
+*/
+p {
+   color: rgb(11, 160, 110) /*color, cambia el color del texto*/
+}
+#william {
+   color: rgb(0, 102, 255);
+   font-size: 30px;
+   font-family: Times New Roman, sans-serif;
+}
+#Lao-Tsé {
+   color: #ffa600;
+   font-size: 30px;
+   font-family: Verdana, sans-serif;
+}
+#Daniel {
+   color: #800055;
+   font-size: 20px;
+   font-family: Cambria, Cochin, Georgia, sans-serif
+}
